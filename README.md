@@ -5,8 +5,9 @@
 - Check the SentimentAnalysis.ipynp file for the EDA and modeling.
 
 
-- Hugging Face config
+
 ---
+Hugging Face config
 - title: Sentiment Analysis
 - emoji: 🔥
 - colorFrom: purple
