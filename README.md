@@ -17,6 +17,6 @@ Hugging Face config
 - app_file: app.py
 - pinned: false
 ---
-- try the app : https://huggingface.co/spaces/AwatefBR/Sentiment_Analysis
+- try the app : https://huggingface.co/spaces/AwatefBR/SentimentAnalysis
 
 - Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
